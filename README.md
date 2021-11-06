@@ -3,3 +3,5 @@
 200usd shit stuff
 
 ![unknown](https://user-images.githubusercontent.com/62286865/140613271-6733d901-2a2f-46da-848b-7cd116cb8d8a.png)
+
+There is HWID in src, please remove it by yourself
